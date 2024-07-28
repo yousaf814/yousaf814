@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @yousaf814 I am working on fiverr and I am selling the AI genertaed photos by using many models like Stable Diffusion and Midjourney.
-- 👀 I’m interested in working on generative AI and AI.
+- 👋 Hi, I’m @yousaf814 I am working on fiverr and I am selling the AI genertaed photos by using many models like Stable Diffusion and Midjourney.I am also learning Machine Learning(ML) and Deep Learning (DL).
+- 👀 I’m interested in making AI models
 - 🌱 I’m currently learning Advance AI and programing in python form "Irfan Malik" on youtube in free
 - 📫 Reach me by clicking the link below:
 -                                        https://www.fiverr.com/yousaf814?public_mode=true
