@@ -1,10 +1,10 @@
-import streamlit as st
-import speech_recognition as sr
-from gtts import gTTS
-from pydub import AudioSegment
-from pydub.playback import play
-import tempfile
-import os
+import streamlit as st;
+import speech_recognition as sr;
+from gtts import gTTS;
+from pydub import AudioSegment;
+from pydub.playback import play;
+import tempfile;
+import os;
 
 # Initialize recognizer class (for recognizing the speech)
 recognizer = sr.Recognizer()
